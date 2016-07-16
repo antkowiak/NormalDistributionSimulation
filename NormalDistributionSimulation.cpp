@@ -104,3 +104,17 @@ private:
     std::map<int, int> mapNumPositiveOccurrencesToFrequency;
 };
 
+int main(int argc, char * argv[])
+{
+    // Seed randomizer with current time
+    srand(time(NULL));
+
+    // Simulate a normal distribution of 1000000 trials, with 50 occurrences
+    // per trial.
+    NormalDistributionSimulation nds(50, 1000000);
+
+    // Print the result of the distribution (divided by 2000 as a scale factor)
+    nds.print(2000.0);
+
+    return 0;
+}
