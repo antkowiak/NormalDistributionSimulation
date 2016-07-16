@@ -1,7 +1,7 @@
 /**
  * @brief  Simulate a normal distribution, based on random coin flips.
  *         Basically some c++ code that will print a bell curve, using
- &         pseudo-random numbers...
+ *         pseudo-random numbers...
  *
  * @author Ryan Antkowiak (antkowiak@gmail.com)
  *
@@ -17,7 +17,7 @@
 /**
  * @class  NormalDistributionSimulation
  *
- * @brief  Simulate a normal distribution trials, keeping track of the number of
+ * @brief  Simulate a normal distribution of trials, keeping track of the number of
  *         positive occurrances per trial out of a possible number of occurrences.
  *         Each occurrence has a 50% chance (hence, rand()%2==0) of being a positive
  *         result.
