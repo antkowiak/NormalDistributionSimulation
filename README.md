@@ -22,6 +22,6 @@ Simulate a normal distribution, and print the results
          visually display it in a terminal window.  A fixed-width font is
          recommended for viewing the output.
 
- @author Ryan Antkowiak (antkowiak@gmail.com)
+ @author Ryan Antkowiak 
 
-Copyright 2016 Ryan Antkowiak (antkowiak@gmail.com)
+Copyright 2016 Ryan Antkowiak 

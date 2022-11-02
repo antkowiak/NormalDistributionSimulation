@@ -3,7 +3,7 @@
  *         Basically some c++ code that will print a bell curve, using
  *         pseudo-random numbers...
  *
- * @author Ryan Antkowiak (antkowiak@gmail.com)
+ * @author Ryan Antkowiak 
  *
  */
 #include <cmath>
@@ -35,7 +35,7 @@
  *         visually display it in a terminal window.  A fixed-width font is
  *         recommended for viewing the output.
  *
- * @author Ryan Antkowiak (antkowiak@gmail.com)
+ * @author Ryan Antkowiak 
  *
  */
 class NormalDistributionSimulation
